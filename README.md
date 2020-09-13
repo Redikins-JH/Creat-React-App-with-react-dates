@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - 아직 기능하지는 않습니다. 날짜 input 기능 들은 react-dates git 문서를 보며 커스터마이징 하셔야 합니다.
 
 
-1. Create-React-App 을 통해 단히 리액트 앱을 만듭니다.
+1. Create-React-App 을 통해 간단히 리액트 앱을 만듭니다.
 2. npm i react-dates 하여 달력을 불러와 봅니다. 
 
 
